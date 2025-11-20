@@ -1,6 +1,9 @@
 # HTTP API Extension for BizTalk Server 2016
 This is designed to integrate with Microsoft BizTalk Server 2016 extending the platform to provide HTTP APIs allowing better oversight into EDI workflows and configurations. This is a significant enhancement to the Windows Form bulky and slow UI that exists. 
 
+![Screenshot from 2025-11-19 20-58-00](https://github.com/user-attachments/assets/57ca2532-d51b-45b2-b791-2e432556940d)
+
+
 ## Configuration
 Point the ConnectionString in `appsettings.json` to your BizTalk database on your SQL Server. `Data Source=192.168.2.66; Initial Catalog=BizTalkMgmtDb;`
 
